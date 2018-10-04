@@ -1,0 +1,19 @@
+    #root {
+        padding-top: 30px;
+    }  
+    .error {
+      color: red;
+      padding-top: 4px;
+      display: block;
+    }
+    .btn {
+      background: #337ab7;
+      padding: 10px 15px;
+      border-radius: 5px;
+      border: none;
+      color: white;
+      font-size: 18px;  
+    }
+    .btn:hover {
+    background: #31708f;
+    }  
